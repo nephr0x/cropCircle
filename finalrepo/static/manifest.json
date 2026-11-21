@@ -1,0 +1,1 @@
+{"name": "FarmLine", "short_name": "FarmLine", "start_url": "/", "display": "standalone", "background_color": "#F7F6F2", "theme_color": "#304F3B", "icons": [{"src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any"}]}

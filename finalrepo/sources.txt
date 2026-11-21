@@ -1,0 +1,14 @@
+# Articles the library reads on first start. One web address per line.
+# Add your own: university extension pages, government factsheets, PDFs.
+# Then run:  python library.py add-urls sources.txt
+
+# Sugarcane aphid on sorghum
+https://extension.okstate.edu/fact-sheets/agronomic-management-practices-for-controlling-sugarcane-aphids.html
+https://lgpress.clemson.edu/publication/sugarcane-aphid-as-a-pest-of-sorghum/
+https://extensionentomology.tamu.edu/commodity/forage-sorghum/
+https://cropwatch.unl.edu/be-guard-sugarcane-aphids-sorghum
+https://pmc.ncbi.nlm.nih.gov/articles/PMC5394564
+
+# Stripe rust on wheat
+https://extension.usu.edu/crops/research/wheat-stripe-rust
+https://extension.okstate.edu/fact-sheets/identifying-rust-diseases-of-wheat-and-barley

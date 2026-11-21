@@ -1,0 +1,298 @@
+{
+ "farmers": [
+  {
+   "name": "Rosa M.",
+   "phone": "+15550100001",
+   "city": "Uvalde",
+   "state": "TX",
+   "crops": "tomato",
+   "experience": {
+    "title": "Early blight on tomatoes",
+    "crop": "tomato",
+    "category": "disease",
+    "description": "My tomato leaves have brown spots with rings like a target and the bottom leaves are turning yellow and falling off.",
+    "what_worked": "It was early blight. I pulled off the spotted lower leaves, put straw mulch down so soil stopped splashing up, and switched to watering at the base in the morning. New growth came in clean within two weeks.",
+    "days_to_fix": 14,
+    "days_ago": 40
+   }
+  },
+  {
+   "name": "Dale K.",
+   "phone": "+15550100002",
+   "city": "Lubbock",
+   "state": "TX",
+   "crops": "sorghum",
+   "experience": {
+    "title": "Sugarcane aphids on sorghum",
+    "crop": "sorghum",
+    "category": "pest",
+    "description": "The sorghum leaves are sticky and shiny and there are tiny yellow bugs all under the leaves. Some leaves are going black.",
+    "what_worked": "Sugarcane aphids. The county agent counted them with me and we treated only once they passed the threshold. Next season I planted a tolerant hybrid earlier and had far fewer.",
+    "days_to_fix": 10,
+    "days_ago": 70
+   }
+  },
+  {
+   "name": "Luis G.",
+   "phone": "+15550100003",
+   "city": "Plainview",
+   "state": "TX",
+   "crops": "cotton",
+   "experience": {
+    "title": "Cotton root rot patches",
+    "crop": "cotton",
+    "category": "disease",
+    "description": "Cotton plants are wilting all at once in round patches, leaves stay hanging on the dead plants.",
+    "what_worked": "Cotton root rot. Nothing saved the patch that year. I mapped the dead circles, rotated those spots to sorghum, and the extension office helped me plan a treatment at planting for the next cotton crop.",
+    "days_to_fix": 0,
+    "days_ago": 120
+   }
+  },
+  {
+   "name": "Hannah B.",
+   "phone": "+15550100004",
+   "city": "Amarillo",
+   "state": "TX",
+   "crops": "wheat",
+   "experience": {
+    "title": "Stripe rust on wheat",
+    "crop": "wheat",
+    "category": "disease",
+    "description": "My wheat has yellow orange stripes of powder running along the leaves and it rubs off on my jeans.",
+    "what_worked": "Stripe rust. I caught it before the flag leaf was hit, and the agent confirmed treating was worth it for my yield. I now plant a resistant variety and check after cool wet weeks.",
+    "days_to_fix": 12,
+    "days_ago": 200
+   }
+  },
+  {
+   "name": "Marcus T.",
+   "phone": "+15550100005",
+   "city": "El Campo",
+   "state": "TX",
+   "crops": "corn",
+   "experience": {
+    "title": "Fall armyworm in young corn",
+    "crop": "corn",
+    "category": "pest",
+    "description": "Something is chewing ragged holes in the corn whorl and there is wet sawdust looking stuff in it.",
+    "what_worked": "Fall armyworm. I checked 20 plants in five spots to see how many were hit. It was under the level where spraying pays, and the plants grew out of it. I scout weekly now when the plants are young.",
+    "days_to_fix": 14,
+    "days_ago": 55
+   }
+  },
+  {
+   "name": "Elena R.",
+   "phone": "+15550100006",
+   "city": "Weslaco",
+   "state": "TX",
+   "crops": "citrus",
+   "experience": {
+    "title": "Citrus greening in orange trees",
+    "crop": "citrus",
+    "category": "disease",
+    "description": "Orange tree leaves are blotchy yellow, not even on both sides, and the fruit is small, lopsided and stays green at the bottom.",
+    "what_worked": "The university lab tested a leaf sample and confirmed citrus greening. I removed the infected tree, and I now manage psyllids on the rest with my neighbours on the same schedule.",
+    "days_to_fix": 0,
+    "days_ago": 150
+   }
+  },
+  {
+   "name": "Tom W.",
+   "phone": "+15550100007",
+   "city": "San Angelo",
+   "state": "TX",
+   "crops": "pecan",
+   "experience": {
+    "title": "Pecan scab on leaves and shucks",
+    "crop": "pecan",
+    "category": "disease",
+    "description": "Black spots on my pecan leaves and on the shucks, and nuts are dropping early.",
+    "what_worked": "Pecan scab. I thinned the lower limbs to get more air through, cleaned up old shucks, and followed the extension spray calendar after rainy spells. Much lighter the next year.",
+    "days_to_fix": 30,
+    "days_ago": 90
+   }
+  },
+  {
+   "name": "Ana P.",
+   "phone": "+15550100008",
+   "city": "Corpus Christi",
+   "state": "TX",
+   "crops": "sorghum",
+   "experience": {
+    "title": "Heat and water stress in sorghum",
+    "crop": "sorghum",
+    "category": "water",
+    "description": "Sorghum leaves rolling up tight in the afternoon and the edges are burnt, heads are small.",
+    "what_worked": "It was heat and water stress, not a disease. I left more stubble on the ground to hold moisture and lowered my planting rate the next season.",
+    "days_to_fix": 0,
+    "days_ago": 25
+   }
+  },
+  {
+   "name": "Ray J.",
+   "phone": "+15550100009",
+   "city": "Stephenville",
+   "state": "TX",
+   "crops": "peanut",
+   "experience": {
+    "title": "Leaf spot on peanuts",
+    "crop": "peanut",
+    "category": "disease",
+    "description": "Peanut leaves have dark round spots with a yellow halo and the leaves are dropping.",
+    "what_worked": "Leaf spot. I had planted peanuts in the same field three years running. Rotating to a grass crop for two years and starting protection earlier fixed most of it.",
+    "days_to_fix": 21,
+    "days_ago": 110
+   }
+  },
+  {
+   "name": "Grace L.",
+   "phone": "+15550100010",
+   "city": "Beaumont",
+   "state": "TX",
+   "crops": "rice",
+   "experience": {
+    "title": "Rice blast after heavy nitrogen",
+    "crop": "rice",
+    "category": "disease",
+    "description": "Diamond shaped grey spots on the rice leaves and some of the heads are white and empty.",
+    "what_worked": "Rice blast. I had put on too much nitrogen and let the field dry down. Keeping the flood steady and splitting nitrogen helped, and I changed to a more resistant variety.",
+    "days_to_fix": 20,
+    "days_ago": 80
+   }
+  },
+  {
+   "name": "Omar S.",
+   "phone": "+15550100011",
+   "city": "College Station",
+   "state": "TX",
+   "crops": "tomato",
+   "experience": {
+    "title": "Spider mites on tomatoes",
+    "crop": "tomato",
+    "category": "pest",
+    "description": "Tomato leaves have tiny pale dots and fine webbing underneath, the leaves look dusty and bronze.",
+    "what_worked": "Spider mites, worse because it was hot and dusty. I hosed the undersides of the leaves every few days and stopped the broad spray that was killing the helpful bugs.",
+    "days_to_fix": 10,
+    "days_ago": 20
+   }
+  },
+  {
+   "name": "Jo H.",
+   "phone": "+15550100012",
+   "city": "Victoria",
+   "state": "TX",
+   "crops": "corn",
+   "experience": {
+    "title": "Nitrogen shortage in corn after rain",
+    "crop": "corn",
+    "category": "soil",
+    "description": "Lower corn leaves are yellow in a V shape starting from the tip, the plants are short and pale.",
+    "what_worked": "Nitrogen shortage after heavy rain washed it out. A soil test confirmed it. I side-dressed once and now split my nitrogen instead of putting it all on at planting.",
+    "days_to_fix": 10,
+    "days_ago": 60
+   }
+  },
+  {
+   "name": "Ben C.",
+   "phone": "+15550100013",
+   "city": "Lubbock",
+   "state": "TX",
+   "crops": "cotton",
+   "experience": {
+    "title": "Bollworms in cotton bolls",
+    "crop": "cotton",
+    "category": "pest",
+    "description": "Small holes in the cotton bolls and squares are falling off, I see little worms inside.",
+    "what_worked": "Bollworms. I learned to check 100 plants across the field for eggs and small worms, and to act early because the big ones are hard to stop.",
+    "days_to_fix": 7,
+    "days_ago": 45
+   }
+  },
+  {
+   "name": "Mia D.",
+   "phone": "+15550100014",
+   "city": "Weslaco",
+   "state": "TX",
+   "crops": "onion",
+   "experience": {
+    "title": "Thrips on onions",
+    "crop": "onion",
+    "category": "pest",
+    "description": "Onion leaves have silvery white streaks and the tips are drying, tiny thin insects down in the neck.",
+    "what_worked": "Thrips. Overhead watering knocked them back some, and I stopped planting next to my neighbour's old onion field where they were coming from.",
+    "days_to_fix": 14,
+    "days_ago": 35
+   }
+  }
+ ],
+ "researchers": [
+  {
+   "name": "Dr. Maya Rivera",
+   "email": "rivera@demo.farmline",
+   "institution": "Texas A&M University",
+   "department": "Plant Pathology and Microbiology",
+   "city": "College Station",
+   "state": "TX",
+   "crops": "tomato, wheat, cotton, peanut, rice, pecan",
+   "expertise": "fungal leaf diseases, early blight, stripe rust, leaf spot, root rot, rice blast, scab",
+   "trials": [
+    {
+     "title": "Mulch and spacing plan for early blight",
+     "crop": "tomato",
+     "problem": "Early blight and other soil-splash leaf diseases",
+     "description": "Comparing straw mulch plus wider spacing against normal practice on small tomato plots.",
+     "farmer_needs": "Set aside two rows for one season and send a photo every two weeks."
+    }
+   ]
+  },
+  {
+   "name": "Dr. Sam Okafor",
+   "email": "okafor@demo.farmline",
+   "institution": "Texas Tech University",
+   "department": "Entomology",
+   "city": "Lubbock",
+   "state": "TX",
+   "crops": "sorghum, cotton, corn",
+   "expertise": "sugarcane aphid, aphids, bollworm, fall armyworm, caterpillars, integrated pest management, scouting thresholds",
+   "trials": [
+    {
+     "title": "Aphid-tolerant sorghum strips",
+     "crop": "sorghum",
+     "problem": "Sugarcane aphid",
+     "description": "On-farm strips of three tolerant hybrids next to the farmer's usual hybrid.",
+     "farmer_needs": "Plant four test strips and allow two field visits for aphid counts."
+    }
+   ]
+  },
+  {
+   "name": "Dr. Linh Nguyen",
+   "email": "nguyen@demo.farmline",
+   "institution": "West Texas A&M University",
+   "department": "Soil and Water Science",
+   "city": "Amarillo",
+   "state": "TX",
+   "crops": "corn, sorghum, wheat, cotton",
+   "expertise": "nitrogen loss, soil salinity, irrigation scheduling, drought stress, heat stress, nutrient deficiency",
+   "trials": []
+  },
+  {
+   "name": "Dr. Carlos Salinas",
+   "email": "salinas@demo.farmline",
+   "institution": "Texas A&M University-Kingsville",
+   "department": "Citrus and Vegetable Science",
+   "city": "Weslaco",
+   "state": "TX",
+   "crops": "citrus, onion, watermelon, pepper",
+   "expertise": "citrus greening, psyllid, thrips, vine decline, fusarium wilt, vegetable diseases",
+   "trials": [
+    {
+     "title": "Grafted watermelon against vine decline",
+     "crop": "watermelon",
+     "problem": "Sudden vine collapse and wilt",
+     "description": "Testing grafted transplants on rootstock that resists soil-borne wilt.",
+     "farmer_needs": "Plant 50 grafted transplants beside your own and report which vines survive."
+    }
+   ]
+  }
+ ]
+}

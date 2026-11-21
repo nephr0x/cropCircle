@@ -1,0 +1,224 @@
+{
+ "about": "One prepared case for live demos. The app always tries the live AI first. These saved answers are shown only if a live step fails or takes too long, and the screen says so. Every fact below comes from the linked public pages (checked November 2026).",
+ "match": {
+  "crop": "sorghum",
+  "any_of": [
+   "aphid",
+   "sticky",
+   "honeydew",
+   "shiny"
+  ]
+ },
+ "form": {
+  "crop": "sorghum",
+  "started": "This week",
+  "area_affected": "Most of it",
+  "city": "Lubbock",
+  "state": "TX",
+  "description": "The leaves are sticky and shiny and there are tiny yellow bugs under the leaves. Some lower leaves are turning black. It is spreading fast."
+ },
+ "understanding": {
+  "crop": "sorghum",
+  "category": "pest",
+  "severity": "high",
+  "likely_issue": "sugarcane aphid",
+  "confidence": 0.8,
+  "symptoms": [
+   "sticky, shiny leaves (honeydew)",
+   "small yellow insects under leaves",
+   "black mold on lower leaves",
+   "spreading quickly"
+  ],
+  "research_terms": "sorghum sugarcane aphid",
+  "summary": "Sorghum near Lubbock has sticky, shiny leaves with small yellow insects underneath and blackening lower leaves, across most of the field. This fits sugarcane aphid, and it is spreading fast.",
+  "first_steps": [
+   "Turn over leaves on ten plants in different parts of the field and look for pale yellow aphids with dark feet.",
+   "Count roughly how many aphids are on one upper leaf and one lower leaf of each plant, and write it down.",
+   "Do not spray yet. An expert needs your counts to tell you whether treatment will pay."
+  ]
+ },
+ "solution": {
+  "likely_cause": "sugarcane aphid",
+  "confidence": "high",
+  "steps": [
+   "Confirm what it is: sugarcane aphids are small and light tan to yellow, with black feet, antennae and tailpipes, and they gather under the leaves.",
+   "Scout at least once a week from now on, checking plants in several parts of the field, because numbers can build quickly.",
+   "Count aphids per leaf and compare with the treatment threshold. Texas extension guidance has used a field average of 50 to 125 aphids per leaf, and Oklahoma has used 30 to 40 percent of plants infested. Ask your county agent for the current figure.",
+   "If your count is past the threshold, act quickly. Your extension office and the product label set which treatment and how much.",
+   "For next season, plant a tolerant hybrid. Extension research names this as one of the most effective steps.",
+   "Watch closely before harvest: heavy honeydew on leaves and stems can gum up machinery."
+  ],
+  "avoid": "Do not decide from sticky leaves alone. The decision depends on how many aphids you count.",
+  "see_expert_if": "Leaves are turning black or dying across most of the field, or the crop is close to heading or harvest.",
+  "research_summary": "Researchers recorded this aphid moving onto sorghum in 2013 and being reported in 191 counties across seven southern states by the end of 2015. They found that some commercial sorghum hybrids are partially resistant.",
+  "sources": [
+   {
+    "title": "Agronomic Management Practices for Controlling Sugarcane Aphids (Oklahoma State University Extension)",
+    "url": "https://extension.okstate.edu/fact-sheets/agronomic-management-practices-for-controlling-sugarcane-aphids.html",
+    "kind": "library"
+   },
+   {
+    "title": "Be on Guard for Sugarcane Aphids in Sorghum (University of Nebraska CropWatch, 2015)",
+    "url": "https://cropwatch.unl.edu/be-guard-sugarcane-aphids-sorghum",
+    "kind": "library"
+   },
+   {
+    "title": "Start Scouting for Sorghum Aphids (Oklahoma State University Extension, 2024)",
+    "url": "https://extension.okstate.edu/e-pest-alerts/2024/start-scouting-for-sorghum-aphids-august-21-2024",
+    "kind": "web"
+   },
+   {
+    "title": "Forage Sorghum Insects (Texas A&M AgriLife Extension Entomology)",
+    "url": "https://extensionentomology.tamu.edu/commodity/forage-sorghum/",
+    "kind": "library"
+   },
+   {
+    "title": "Sugarcane aphid: a new pest on sorghum in North America (Journal of Integrated Pest Management, 2016)",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5394564",
+    "kind": "research"
+   }
+  ]
+ },
+ "real_cases": {
+  "pattern": "Each report describes the aphid arriving suddenly and spreading across a region within a season. Growers and extension staff responded with regular scouting, threshold-based treatment and tolerant hybrids.",
+  "cases": [
+   {
+    "who": "Sorghum producers",
+    "where": "Colquitt County, Georgia",
+    "when": "2014 season",
+    "what_happened": "Growers struggled with sugarcane aphid through the season and brought questions to the county extension office.",
+    "what_they_did": "Some fields were treated. The county agent then shared management tips from the University of Georgia entomologist ahead of the next season.",
+    "outcome": "not reported",
+    "source_site": "site.extension.uga.edu",
+    "source_title": "Tips on Managing Sugar Cane Aphid (UGA Extension, Colquitt County)",
+    "url": "https://site.extension.uga.edu/colquittag/2015/05/tips-on-managing-sugar-cane-aphid"
+   },
+   {
+    "who": "Sorghum growers across the southern United States",
+    "where": "Texas, Oklahoma, Arkansas, Louisiana, Mississippi, Tennessee and Alabama",
+    "when": "2015 season",
+    "what_happened": "By the end of the season the aphid had been reported on sorghum in 191 counties, and it kept expanding north into northeastern Kansas.",
+    "what_they_did": "Research, extension and industry groups responded with monitoring and management guidance.",
+    "outcome": "Some commercial hybrids were found to be partially resistant, and breeders identified more resistant lines.",
+    "source_site": "pmc.ncbi.nlm.nih.gov",
+    "source_title": "Sugarcane aphid: a new pest on sorghum in North America",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5394564"
+   },
+   {
+    "who": "Grain sorghum growers",
+    "where": "Louisiana and Texas",
+    "when": "2013",
+    "what_happened": "The aphid was first reported damaging grain sorghum. Before then it had not been counted as an economic pest of sorghum in the United States.",
+    "what_they_did": "Extension services in Texas and Oklahoma published treatment thresholds based on aphids per leaf and share of plants infested.",
+    "outcome": "not reported",
+    "source_site": "cropwatch.unl.edu",
+    "source_title": "Be on Guard for Sugarcane Aphids in Sorghum",
+    "url": "https://cropwatch.unl.edu/be-guard-sugarcane-aphids-sorghum"
+   }
+  ]
+ },
+ "research": {
+  "terms": "sorghum sugarcane aphid",
+  "papers": [
+   {
+    "title": "Sugarcane aphid (Hemiptera: Aphididae): a new pest on sorghum in North America",
+    "year": 2016,
+    "journal": "Journal of Integrated Pest Management",
+    "url": "https://doi.org/10.1093/jipm/pmw011",
+    "authors": [
+     "R. D. Bowling",
+     "M. J. Brewer",
+     "D. L. Kerns",
+     "J. Gordy"
+    ],
+    "more_authors": 7,
+    "cited_by": null,
+    "abstract": ""
+   },
+   {
+    "title": "Invasion of sorghum in the Americas by a new sugarcane aphid (Melanaphis sacchari) superclone",
+    "year": 2018,
+    "journal": "PLoS ONE",
+    "url": "https://doi.org/10.1371/journal.pone.0196124",
+    "authors": [],
+    "more_authors": 0,
+    "cited_by": null,
+    "abstract": ""
+   }
+  ],
+  "people": [
+   {
+    "name": "G. David Buntin",
+    "institution": "University of Georgia",
+    "country": "US",
+    "papers": 1,
+    "paper_title": "Sugarcane aphid (Hemiptera: Aphididae): a new pest on sorghum in North America",
+    "paper_url": "https://doi.org/10.1093/jipm/pmw011"
+   },
+   {
+    "name": "Francis Reay-Jones",
+    "institution": "Clemson University Cooperative Extension",
+    "country": "US",
+    "papers": 1,
+    "paper_title": "Sugarcane Aphid as a Pest of Sorghum",
+    "paper_url": "https://lgpress.clemson.edu/publication/sugarcane-aphid-as-a-pest-of-sorghum/"
+   },
+   {
+    "name": "Jeremy K. Greene",
+    "institution": "Clemson University Cooperative Extension",
+    "country": "US",
+    "papers": 1,
+    "paper_title": "Sugarcane Aphid as a Pest of Sorghum",
+    "paper_url": "https://lgpress.clemson.edu/publication/sugarcane-aphid-as-a-pest-of-sorghum/"
+   }
+  ]
+ },
+ "experts": {
+  "experts": [
+   {
+    "name": "Texas A&M AgriLife Extension Service",
+    "role": "State extension service for Texas",
+    "organization": "Texas A&M University System",
+    "why": "Publishes the Texas management guidelines for sugarcane aphid on grain and forage sorghum, and runs the county extension offices.",
+    "phone": "",
+    "email": "",
+    "source_site": "agrilifeextension.tamu.edu",
+    "source_title": "The Sugarcane Aphid: Management Guidelines for Grain and Forage Sorghum in Texas",
+    "url": "https://agrilifeextension.tamu.edu/asset-external/the-sugarcane-aphid-management-guidelines-for-grain-and-forage-sorghum-in-texas/"
+   },
+   {
+    "name": "Patrick Porter",
+    "role": "Texas A&M AgriLife Extension Service",
+    "organization": "Texas A&M University System",
+    "why": "His field photos of this aphid are credited in Texas A&M's and other universities' sorghum insect guides.",
+    "phone": "",
+    "email": "",
+    "source_site": "extensionentomology.tamu.edu",
+    "source_title": "Forage Sorghum Insects",
+    "url": "https://extensionentomology.tamu.edu/commodity/forage-sorghum/"
+   },
+   {
+    "name": "G. David Buntin",
+    "role": "Entomologist",
+    "organization": "University of Georgia",
+    "why": "Co-author of the main research paper on this aphid in sorghum, and the source of the management tips shared with Georgia growers.",
+    "phone": "",
+    "email": "",
+    "source_site": "site.extension.uga.edu",
+    "source_title": "Tips on Managing Sugar Cane Aphid",
+    "url": "https://site.extension.uga.edu/colquittag/2015/05/tips-on-managing-sugar-cane-aphid"
+   },
+   {
+    "name": "Francis Reay-Jones",
+    "role": "Agronomic Crops Program Team",
+    "organization": "Clemson University Cooperative Extension",
+    "why": "Lead author of Clemson's extension publication on sugarcane aphid as a pest of sorghum.",
+    "phone": "",
+    "email": "",
+    "source_site": "lgpress.clemson.edu",
+    "source_title": "Sugarcane Aphid as a Pest of Sorghum",
+    "url": "https://lgpress.clemson.edu/publication/sugarcane-aphid-as-a-pest-of-sorghum/"
+   }
+  ]
+ }
+}
